@@ -38,4 +38,8 @@ As shown below in the t.test of Lot 3 we can see the p-value is 0.1589 which is 
 <img width="630" alt="Screen Shot 2020-12-03 at 7 57 49 PM" src="https://user-images.githubusercontent.com/69806770/101108846-6972ba80-35a3-11eb-890b-6f61822183b4.png">
 
 ## Study Design: MechaCar vs Competition
+In this study, to determine how MechaCar is performing against the competition we are going to look at a few metrics to be tested: cost, safety rating and horse power. The null hypothesis is:
+- H0 : MechaCar does no perform better than the competition in any of the metrics tested.
+The statistical test I would use for this is a one-way ANOVA for each variable/metric. This way we can test the cost, safety rating and horse power of the MechaCar against the same metric for multiple competitors and see how we perform against multiple competitors.By seeing how we perform against competitors in each of these metrics we can rank ourselves against the competition and make a decision in which metrics we are able to improve to out perform the competition.
+To run these tests, we need the information of cost, safety rating and horse power for MechaCar as well as the same data from our competitors so that we can test this data against each other. This is public information for car competitors so should be easily accessible. 
 
