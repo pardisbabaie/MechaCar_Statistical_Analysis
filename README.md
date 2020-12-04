@@ -10,3 +10,6 @@ Based on this since there is a significant statistical relationship with vehicle
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 From the linear regression model shown below, the r-squared value is 0.71, which portrays that approximately 71% of the relationship between the prototype dimensions and MPG will be correct using this model. As 71% is above 50%, this model does effectively explain the relationship between the protoype diminsions and MPG. However, this is just based on two statistically significant values so the linear model is not ideal and we need more significant variables. 
 
+<img width="512" alt="Screen Shot 2020-12-03 at 6 48 24 PM" src="https://user-images.githubusercontent.com/69806770/101106075-480ed000-359d-11eb-92a1-bc14c58d8889.png">
+
+## Summary Statistics on Suspension Coils
