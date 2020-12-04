@@ -27,6 +27,15 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ## T-Tests on Suspension Coils
 As shown below in the t.test of Lot 1 we can see the p-value is 1.568e-11 which is much less than 0.05 so we can say with a 95 percent confidence interval that the means are statistically significantly different.
 
+<img width="634" alt="Screen Shot 2020-12-03 at 7 57 23 PM" src="https://user-images.githubusercontent.com/69806770/101108579-d76ab200-35a2-11eb-97e7-ac2e38a58d8f.png">
+
 As shown below in the t.test of Lot 2 we can see the p-value is 0.0005911 which is much less than 0.05 so we can say with a 95 percent confidence interval that the means are statistically significantly different.
 
+<img width="628" alt="Screen Shot 2020-12-03 at 7 57 34 PM" src="https://user-images.githubusercontent.com/69806770/101108606-ea7d8200-35a2-11eb-97cb-684ce4e4289f.png">
+
 As shown below in the t.test of Lot 3 we can see the p-value is 0.1589 which is greater than 0.05 so we can say with a 95 percent confidence interval that the means are not statistically significantly different.
+
+<img width="630" alt="Screen Shot 2020-12-03 at 7 57 49 PM" src="https://user-images.githubusercontent.com/69806770/101108846-6972ba80-35a3-11eb-890b-6f61822183b4.png">
+
+## Study Design: MechaCar vs Competition
+
