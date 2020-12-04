@@ -21,3 +21,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 - As shown below the variance of lot 1 which is 0.98 and lot 2 which is 7.47 are both below 100 pounds and meet the design specification. However, the viariance of lot 3 is 170.29 which is significantly higher than the design specification of not exceeding 100 and fail this design specification.
 
 <img width="490" alt="Screen Shot 2020-12-03 at 7 34 31 PM" src="https://user-images.githubusercontent.com/69806770/101107154-b2c10b00-359f-11eb-9325-ff3224277bc0.png">
+
+## T-Tests on Suspension Coils
+As shown below in the t.test of Lot 1 we can see the p-value is 1.568e-11 which is much less than 0.05 so we can say with a 95 percent confidence interval that the means are statistically significantly different.
+
+As shown below in the t.test of Lot 2 we can see the p-value is 0.0005911 which is much less than 0.05 so we can say with a 95 percent confidence interval that the means are statistically significantly different.
+
+As shown below in the t.test of Lot 3 we can see the p-value is 0.1589 which is greater than 0.05 so we can say with a 95 percent confidence interval that the means are not statistically significantly different.
