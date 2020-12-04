@@ -16,6 +16,8 @@ From the linear regression model shown below, the r-squared value is 0.71, which
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 - As shown below the overall variance of all manufacturing lots in total is 62.3 which is less than 100 pounds so it does meet this design specification.
 
+<img width="321" alt="Screen Shot 2020-12-03 at 7 34 41 PM" src="https://user-images.githubusercontent.com/69806770/101107128-a341c200-359f-11eb-9ee1-1ed1d7c25d83.png">
+
 - As shown below the variance of lot 1 which is 0.98 and lot 2 which is 7.47 are both below 100 pounds and meet the design specification. However, the viariance of lot 3 is 170.29 which is significantly higher than the design specification of not exceeding 100 and fail this design specification.
 
-
+<img width="490" alt="Screen Shot 2020-12-03 at 7 34 31 PM" src="https://user-images.githubusercontent.com/69806770/101107154-b2c10b00-359f-11eb-9325-ff3224277bc0.png">
